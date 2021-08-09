@@ -3,3 +3,12 @@
     color:red;
     font-family: 'Bangers', cursive;
 }
+
+
+.cajita{
+    background-color:gold;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 50px;
+}
