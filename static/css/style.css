@@ -2,14 +2,16 @@
 *{
     color:red;
     font-family: 'Bangers', cursive;
+    padding: 0;
+    margin:0;
 }
 
 
 .cajita{
     background-color:gold;
     text-align: center;
-    padding: 20px;
-    margin: 20px;
+    padding: 40px;
+    margin: 40px;
     border-radius: 30px;
     box-shadow: 20px 20px 40px 0px #000;
     
@@ -20,6 +22,7 @@
     border-radius: 20%;
     border: 5px solid rgb(238, 15, 15);
     box-shadow:20px 20px 40px 0px #000;
+    margin:30px;
     
 }
 
