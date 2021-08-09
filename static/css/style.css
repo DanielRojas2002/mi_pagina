@@ -10,5 +10,18 @@
     text-align: center;
     padding: 20px;
     margin: 20px;
-    border-radius: 50px;
+    border-radius: 30px;
+    box-shadow: 20px 20px 40px 0px #000;
+    
+   
+}
+
+.cajita__img{
+    border-radius: 20%;
+    box-shadow:20px 20px 40px 0px #000;
+    
+}
+
+.cajita__h{
+    transform:rotate(10deg);
 }
